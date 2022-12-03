@@ -2,4 +2,5 @@
 ## Advent of Code 2022
 
  My attempts at solving the Advent of Code challenges for 2022.
- I intend to write my code in Carbon as an additional challenge.
+ I intend to write my code in a different language each day as 
+ an additional challenge.
