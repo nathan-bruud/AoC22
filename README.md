@@ -11,3 +11,4 @@
  - Day 3  - C++    - I forgot how fast C++ is
  - Day 4  - Ruby   - If python sucked
  - Day 5  - Dart   - Like if typescript but more java
+ - Day 6  - Racket - Like putting on an old sweater you expect to be cozy, but is just really scratchy
