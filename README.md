@@ -5,7 +5,7 @@
  I intend to write my code in a different language each day as 
  an additional challenge.
 
-##Journal
+## Journal
  - Day 1  - Java   - like riding a bike 
  - Day 2  - Kotlin - like riding a bike but slightly different
  - Day 3  - C++    - I forgot how fast C++ is
