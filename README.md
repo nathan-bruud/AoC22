@@ -10,3 +10,4 @@
  - Day 2  - Kotlin - like riding a bike but slightly different
  - Day 3  - C++    - I forgot how fast C++ is
  - Day 4  - Ruby   - If python sucked
+ - Day 5  - Dart   - Like if typescript but more java
