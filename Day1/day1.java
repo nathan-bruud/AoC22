@@ -17,6 +17,7 @@ public class day1 {
         runningScore += Integer.parseInt(currentLine);
       }
     }
+    reader.close();
     bestScore = Math.max(runningScore, bestScore);
     System.out.println(bestScore);
   }

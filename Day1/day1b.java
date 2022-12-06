@@ -17,6 +17,7 @@ public class day1b {
         runningScore += Integer.parseInt(currentLine);
       }
     }
+    reader.close();
     bestScore = compareMaxes(bestScore, runningScore);
     System.out.println(Arrays.toString(bestScore));
     runningScore = 0;
